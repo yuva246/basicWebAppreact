@@ -1,0 +1,20 @@
+/* Add all your styles here */
+ *{
+ margin: 0;
+ padding: 0;
+}
+ .toolbar{ 
+ background: #2196f3; 
+ width: 360px; 
+ height: 60px; 
+ align-items: center;
+ display: flex;
+ box-shadow: 0 0 5px #000;
+}
+ h4{
+ color: #ffffff;
+ font-family: serif;
+ transform : translateX(50px);
+ 
+}
+ 
